@@ -1,0 +1,16 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.table tr {
+    border-width: 1px;
+}
+.table td {
+    border-width: 1px;
+    padding: 8px;
+}
+
+.table td.color {
+    color:red
+}
